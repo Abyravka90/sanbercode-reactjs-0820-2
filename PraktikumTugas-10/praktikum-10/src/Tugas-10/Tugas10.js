@@ -1,4 +1,5 @@
 import React from "react";
+/*ini adalah tugas 10 */
 let dataHargaBuah = [
   { nama: "Semangka", harga: 10000, berat: 1000 },
   { nama: "Anggur", harga: 40000, berat: 500 },

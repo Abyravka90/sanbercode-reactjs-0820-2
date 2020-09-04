@@ -15,5 +15,5 @@ function App() {
     </>
   );
 }
-
+/*ini adalah tugas 9 dan 10*/
 export default App;

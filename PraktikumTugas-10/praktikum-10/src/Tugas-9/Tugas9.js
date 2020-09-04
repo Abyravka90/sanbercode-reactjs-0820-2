@@ -2,6 +2,7 @@ import React from "react";
 class Tugas9 extends React.Component {
   render() {
     return (
+      /*ini adalah tugas 9 */
       <>
         <div className="App">
           <header class="content">
