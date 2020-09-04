@@ -6,7 +6,7 @@ class Welcome extends React.Component {
 }
 class ShowAge extends React.Component {
   render() {
-    return <h1>YOur Age Is, {this.props.age}</h1>;
+    return <h1>Your Age Is, {this.props.age}</h1>;
   }
 }
 var person = [
